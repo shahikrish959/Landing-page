@@ -1,0 +1,21 @@
+.testimonal
+{
+width: 1440px;
+height: 500px;
+padding: 120px 0px 60px 0px;
+}
+
+.testimonal-layout
+{
+width: 1224px;
+height: 539px;
+margin: auto;
+}
+
+.tphoto-layout
+{
+display: flex;
+width: 1120px;
+height: 351px;
+gap: 129px;
+}

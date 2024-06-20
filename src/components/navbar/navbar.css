@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+.navbar
+{
+    width: 90%;
+    height: 50px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    display: flex;
+    margin: auto;
+    
+}
+.logo
+{
+    width: 138.17px;
+    height: 50px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.text
+{
+    display: flex;
+    gap: 0px;
+    opacity: 0px;
+}
+.home
+{
+width: 94px;
+height: 44px;
+padding: 10px 24px 10px 24px;
+gap: 10px;
+opacity: 0px;
+
+}
+.about
+{
+width:118px;
+height:44px;
+padding: 10px 24px 10px 24px;
+gap: 10px;
+opacity: 0px;
+
+}
+.FAQ
+{
+width:82px;
+height:44px;
+padding: 10px 24px 10px 24px;
+gap: 10px;
+opacity: 0px;
+
+}
+.contact
+{
+width: 135px;
+height: 44px;
+padding: 10px 24px 10px 24px;
+gap: 10px;
+opacity: 0px;
+
+}
+.container
+{
+width: 100vw;
+height: 50px;
+padding: 15px 0px 15px 0px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+
+}

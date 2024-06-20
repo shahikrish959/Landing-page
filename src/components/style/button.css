@@ -1,0 +1,21 @@
+.Download
+{
+  width:168px;
+  height:50px;
+  padding: 13px 24px 13px 24px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0px;
+  background: #082D4A;
+  color: white;
+}
+.GetInTouch
+{
+  width:168px;
+  height:50px;
+  padding: 13px 24px 13px 24px;
+  gap: 10px;
+  border-radius: 8px;
+  background: #082D4A;
+  color: white;
+}

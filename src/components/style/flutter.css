@@ -1,0 +1,33 @@
+.flutter-con
+{
+width: 100vw;
+height: 200px;
+padding: 120px 0px 120px 0px;
+display: flex;
+justify-content: center;
+margin: auto;
+background-color: rgba(8, 45, 74, 1);
+color: white;
+}
+.flutter-layout
+{
+width: 1223px;
+height: 292px;
+gap: 100px;
+display: flex;
+}
+.contact-con
+{
+ width: 225px;
+height: 150px;
+}
+.services-con
+{
+ width: 340px;
+height: 150px;
+}
+.download-con
+{
+ width: 290px;
+height: 150px;
+}
