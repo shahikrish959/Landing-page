@@ -39,3 +39,17 @@ width: 1224px;
 height: 457.94px;
 gap: 10px;
 }
+.faq-t-con
+{
+    display: flex;
+    justify-content: space-between;
+}
+.faq-btn
+{
+    width: 25px;
+    font-size: larger;
+    border: none;
+    outline: none;
+    background-color: white;
+
+}

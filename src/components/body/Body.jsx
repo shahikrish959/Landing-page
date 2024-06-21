@@ -57,7 +57,7 @@ const Body = () => {
          <div className="facts">
            <h2> 24H </h2>
            <p>team support</p>
-         </div>
+          </div>
          </div>
       </div>
       <div className='body-2'>

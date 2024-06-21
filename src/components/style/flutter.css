@@ -11,10 +11,11 @@ color: white;
 }
 .flutter-layout
 {
-width: 1223px;
+width: 1000px;
 height: 292px;
 gap: 100px;
 display: flex;
+justify-content: center;
 }
 .contact-con
 {

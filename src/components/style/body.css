@@ -33,15 +33,17 @@ color:rgba(182, 184, 185, 1);
     justify-content: center;
     margin-left: 150px;
 }
-.right
+
+.mob
 {
-    margin-top: 80px;
+    margin-top: 100px;
 }
 .up
 {
 width:80%;
 display: flex;
-justify-content: center;
+justify-content: space-between;
+
 }
 .down
 {
@@ -54,7 +56,9 @@ justify-content: center;
     align-items: center;
     color: rgba(255, 255, 255, 1);
     border-radius: 10px;
+    position: relative;
 }
+
 .facts
 {
     display: flex;

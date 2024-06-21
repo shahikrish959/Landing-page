@@ -3,23 +3,61 @@
 display: flex;
 flex-direction: column;
 align-items: center;
+justify-content: center;
 width:  1440px;
-height:400px;
-padding: 120px 0px 120px 0px;
+height: 650px;
+
+}
+.connect-layout
+{
+    width: 80%;
+}
+.connect-up
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .connect-down
 {
     display: flex;
     flex-direction: column;
+    width: 100%;
+
 }
-.con1
+.connect-d2
 {
     display: flex;
+    justify-content: space-between;
 }
-.con2
+.connect-left
 {
-    display: flex;
-}.con3
+    display: flex ;
+    flex-direction: column;
+    width: 45%;
+}
+.connect-right
 {
-    display: flex;
+    display: flex ;
+    flex-direction: column;
+    width: 45%;
+}
+.connect-last
+{
+    width: 100%;
+
+}
+.connect-last input
+{
+    width: 100%;
+    height: 100px;
+    
+}
+input
+{
+    height: 40px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
 }

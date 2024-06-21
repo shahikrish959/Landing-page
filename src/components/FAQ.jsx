@@ -14,20 +14,29 @@ const FAQ = () => {
             <div className="FAQ-down">
                 <div className="FAQ-text">
                     <div><br/><br/>
-                        <h3>Gorem ipsum dolor sit amet, consectetur adipiscing elit.</h3><br/>
+                     <div className="faq-t-con">
+                     <h3>Gorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+                     <button className='faq-btn'>+</button>
+                     </div> <br/>
                        <p>Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                     </div><br/><br/>
                     <div>
+                        <div className="faq-t-con">
                         <h3>Norem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
-                        
+                        <button className='faq-btn'>+</button>
+                        </div>
                     </div><br/><br/>
                     <div>
+                        <div className="faq-t-con">
                         <h3>Norem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
-                        
+                        <button className='faq-btn'>+</button>
+                        </div>
                     </div><br/><br/>
                     <div>
+                    <div className="faq-t-con">
                         <h3>Norem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
-                        
+                        <button className='faq-btn'>+</button>
+                    </div>
                     </div>
                 </div>
                 <div className="FAQ-image1">

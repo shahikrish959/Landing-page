@@ -8,18 +8,29 @@ background: url("../../assets/photo.jpg");
 background-size: cover;
 width: 100vw;
 height: 555px;
-padding: 120px 0px 120px 0px;
 color: white;
+position: relative;
 }
-
+.community-container::before
+{
+content: '';
+background-color: rgba(0, 0,0, 0.5);
+z-index: 1;
+position: absolute;
+top: 0%;
+left: 0%;
+width: 100vw;
+height: 555px ;
+}
 .layout-community
 {
-    text-align: center;
+text-align: center;
 display: flex;
 flex-direction: column;
 width: 500px;
 height:248px;
 gap: 24px;
+z-index: 10;
 }
 
 .layout-community2
